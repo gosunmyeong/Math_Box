@@ -3,4 +3,6 @@ def add(a, b):
 
 def subtract(a, b):
   return a-b
-  //sex
+
+def multiply(a, b):
+  return a*b
